@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tema_Project1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="bin\Debug\netcoreapp3.1\Tema_Project1_ex2.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\Teme Curs\Tema_Project1_ex2.cs" Link="Tema_Project1_ex2.cs" />
+  </ItemGroup>
+
+</Project>
